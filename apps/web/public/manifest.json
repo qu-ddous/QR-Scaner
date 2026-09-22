@@ -1,0 +1,19 @@
+{
+  "name": "QRHub — Private QR Code Platform",
+  "short_name": "QRHub",
+  "description": "Free, private, 100% client-side vector QR code generator and bulk tools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "business"]
+}

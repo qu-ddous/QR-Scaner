@@ -1,0 +1,36 @@
+{
+  "doc_1789727097395": {
+    "id": "doc_1789727097395",
+    "filename": "FYP_Proposal_AI_Design_Agent-2.docx",
+    "savedFileName": "doc_1789727097395.docx",
+    "url": "/uploads/documents/doc_1789727097395.docx",
+    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "title": "FYP_Proposal_AI_Design_Agent-2",
+    "desc": "",
+    "timestamp": "2026-09-18T10:24:57.402Z",
+    "size": 19849
+  },
+  "doc_test_123": {
+    "id": "doc_test_123",
+    "filename": "Sample_Report_2026.pdf",
+    "savedFileName": "doc_test_123.pdf",
+    "url": "/uploads/documents/doc_test_123.pdf",
+    "mimeType": "application/pdf",
+    "title": "Official Annual Report 2026",
+    "desc": "Financial audit report for corporate compliance",
+    "timestamp": "2026-09-18T10:26:04.601Z",
+    "size": 496
+  },
+  "doc_1789735516555": {
+    "id": "doc_1789735516555",
+    "filename": "Company_Report.pdf",
+    "savedFileName": "doc_1789735516555.pdf",
+    "url": "https://litter.catbox.moe/gm7zfz.pdf",
+    "cloudUrl": "https://litter.catbox.moe/gm7zfz.pdf",
+    "mimeType": "application/pdf",
+    "title": "Annual Company Report 2026",
+    "desc": "Confidential Financial Report",
+    "timestamp": "2026-09-18T12:45:18.251Z",
+    "size": 562
+  }
+}

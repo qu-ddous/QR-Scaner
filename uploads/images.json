@@ -1,0 +1,44 @@
+{
+  "bulk_img_1789728964567_0": {
+    "id": "bulk_img_1789728964567_0",
+    "filename": "Quddous 3.jpg",
+    "savedFileName": "bulk_img_1789728964567_0.jpg",
+    "url": "/uploads/bulk_img_1789728964567_0.jpg",
+    "title": "Quddous 3",
+    "desc": "Batch uploaded media QR",
+    "timestamp": "2026-09-18T10:56:04.607Z",
+    "size": 232292
+  },
+  "img_1789735396141": {
+    "id": "img_1789735396141",
+    "filename": "test-pixel.png",
+    "savedFileName": "img_1789735396141.png",
+    "url": "/uploads/img_1789735396141.png",
+    "cloudUrl": "",
+    "title": "Test Verification Image",
+    "desc": "Unit test verifying cloud upload",
+    "timestamp": "2026-09-18T12:43:18.710Z",
+    "size": 70
+  },
+  "img_1789735502275": {
+    "id": "img_1789735502275",
+    "filename": "test-pixel.png",
+    "savedFileName": "img_1789735502275.png",
+    "url": "https://litter.catbox.moe/0g7l04.png",
+    "cloudUrl": "https://litter.catbox.moe/0g7l04.png",
+    "title": "Test Verification Image",
+    "desc": "Unit test verifying cloud upload",
+    "timestamp": "2026-09-18T12:45:05.207Z",
+    "size": 70
+  },
+  "img_1789736176892": {
+    "id": "img_1789736176892",
+    "filename": "Quddous 3.jpg",
+    "savedFileName": "img_1789736176892.jpg",
+    "url": "/uploads/img_1789736176892.jpg",
+    "title": "Quddous 3.jpg",
+    "desc": "",
+    "timestamp": "2026-09-18T12:56:16.916Z",
+    "size": 232292
+  }
+}
