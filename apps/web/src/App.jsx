@@ -75,6 +75,11 @@ export default function App() {
               <Route path="/cookies" element={<CookiesPage />} />
               <Route path="/sitemap" element={<SitemapPage />} />
 
+              {/* Keyword-Targeted Content Routes */}
+              <Route path="/wifi-qr-code-generator" element={<WiFiQRPage />} />
+              <Route path="/vcard-qr-code" element={<vCardQRPage />} />
+              <Route path="/bulk-qr-codes" element={<BulkGeneratorPage />} />
+
               {/* QR Specialized Landing Pages */}
               <Route path="/qr/url" element={<URLQRPage />} />
               <Route path="/qr/wifi" element={<WiFiQRPage />} />

@@ -161,7 +161,7 @@ export default function HomePage() {
   return (
     <>
       <SEO
-        title="QRHub — Free, Beautiful & Private QR Code Generator"
+        title="QRHub — Free, Private QR Code Generator for WiFi, vCards & URLs"
         description="Create beautiful, customizable vector QR codes. 100% private, client-side generation for URLs, Wi-Fi, contacts, events, secrets and bulk batches."
         canonical="/"
       />

@@ -1,0 +1,33 @@
+# QRHub — Free, Private & Vector QR Code Studio
+
+> QRHub (https://qr-scaner-nu.vercel.app) is a 100% private, client-side QR code generator and universal scanner. All QR generation and camera decoding takes place entirely inside the user's browser without sending payloads to external servers.
+
+## Core Capabilities
+- **100% Client-Side Privacy**: Payload data (URLs, passwords, contact info, notes) never leaves the browser. Zero telemetry and no database storage.
+- **Lossless Vector Exports**: Supports scalable SVG and print-ready PDF formats for merchandise, posters, and billboards, plus high-res PNG, JPG, and WebP.
+- **Bulk Batch Generator**: Generate up to 200 QR codes from CSV spreadsheets or multi-line lists with single-click ZIP archive export.
+- **Universal Scanner**: In-browser camera scanner and image drag-and-drop decoder powered by jsQR.
+- **Encrypted Secret Notes**: AES-256 client-side encrypted QR codes unlocked through browser passcodes.
+
+## Supported QR Code Types
+1. **WiFi Network**: One-tap guest Wi-Fi connection (WPA/WPA2/WEP/Open).
+2. **vCard 3.0**: Digital business cards with phone, email, address, company, and job title.
+3. **URL**: Web links, marketing campaigns, and portfolios.
+4. **WhatsApp**: Pre-filled WhatsApp direct messaging.
+5. **Email & SMS**: Pre-addressed emails and pre-populated text messages.
+6. **Location & Maps**: GPS coordinates and direct Google Maps pins.
+7. **Calendar Event**: iCalendar (.ics) format with event name, location, and start/end time.
+8. **App Download**: Deep links to Apple App Store and Google Play Store.
+9. **Crypto**: Bitcoin, Ethereum, and multi-chain wallet payment QR codes.
+10. **Plain Text & Secret Vault**: Plain text and password-protected encrypted notes.
+
+## Key Pages & Endpoints
+- Homepage: https://qr-scaner-nu.vercel.app/
+- QR Generator Studio: https://qr-scaner-nu.vercel.app/generator
+- Universal QR Scanner: https://qr-scaner-nu.vercel.app/scanner
+- Bulk Batch Generator: https://qr-scaner-nu.vercel.app/bulk
+- WiFi QR Code Generator: https://qr-scaner-nu.vercel.app/wifi-qr-code-generator
+- vCard QR Code Generator: https://qr-scaner-nu.vercel.app/vcard-qr-code
+- Bulk QR Codes: https://qr-scaner-nu.vercel.app/bulk-qr-codes
+- Pre-built Templates: https://qr-scaner-nu.vercel.app/templates
+- Feature Tour: https://qr-scaner-nu.vercel.app/features
